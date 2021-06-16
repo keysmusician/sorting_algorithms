@@ -12,9 +12,17 @@
 * [Author](#author)
 
 ## About
-I learned about **Big O Notation** and implemented various **sorting algorithms** in this project.
+I learned about **Big O Notation** and various **sorting algorithms** in this project.
 
 ## Files
+* `0-O`
+* `0-bubble_sort.c`
+* `1-O`
+* `1-insertion_sort_list.c`
+* `2-O`
+* `2-selection_sort.c`
+* `3-O`
+* `3-quick_sort.c`
 * `README.md`
 * `print_array.c`
 * `print_list.c`
