@@ -23,6 +23,8 @@ I learned about **Big O Notation** and various **sorting algorithms** in this pr
 * `2-selection_sort.c`
 * `3-O`
 * `3-quick_sort.c`
+* `102-O`
+* `102-counting_sort.c`
 * `README.md`
 * `print_array.c`
 * `print_list.c`
